@@ -2,6 +2,7 @@
 
 A responsive Weather App built with HTML, CSS, and JavaScript that integrates the OpenWeather API to display real-time weather information.
 
+
 ## ✨ Features
 
 - 🔍 Search weather by city name
@@ -31,7 +32,11 @@ A responsive Weather App built with HTML, CSS, and JavaScript that integrates th
 
 ## 📸 Screenshot
 
-(Add a screenshot of your app here)
+![Weather App](screenshot.png)
+
+## 🚀 Live Demo
+
+🌐 https://krish-code91.github.io/Weather-App/
 
 ## 👨‍💻 Author
 
